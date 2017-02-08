@@ -1,0 +1,17 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="toolbar_title">20dp</dimen>
+
+    <dimen name="atm_item_height">60dp</dimen>
+    <dimen name="atm_padding">5dp</dimen>
+
+    <dimen name="atm_inputs">16dp</dimen>
+
+    <dimen name="atm_name">16dp</dimen>
+    <dimen name="atm_address">14dp</dimen>
+    <dimen name="atm_item_space">15dp</dimen>
+</resources>
